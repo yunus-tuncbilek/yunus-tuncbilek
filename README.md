@@ -10,7 +10,7 @@
 
 </p>
 
-## Contributions to Open Source Projects
+<h2 align="left"><img src="assets/github.gif" width="35"> Contributions to Open Source Software </h2>
 
 ### [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ⭐ 116k
 
